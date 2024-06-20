@@ -1,0 +1,162 @@
+/* General styles */
+
+body {
+    padding: 40px 40px 40px 40px;
+    background: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 8px;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 15px;
+}
+
+p, ol {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+ul {
+    font-weight: 400;
+    font-size: 7px;
+    line-height: 24px;
+    color: #595959;
+    vertical-align: super;
+    padding-left: 10px;
+    list-style: disc;
+    list-style-position: inside;
+}
+
+ol {
+    list-style: decimal;
+    list-style-position: inside;
+    font-weight: bold;
+    color: #000000;
+}
+
+aside {
+    padding-top: 40px;
+    background: #DFEEFF;
+}
+
+/* Additional styles */
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: auto;
+}
+
+.main-content {
+    padding: 40px 40px 60px 88px;
+    background: #FFFFFF;
+}
+
+.my-name {
+    margin-bottom: 8px;
+}
+
+.project {
+    font-weight: normal;
+}
+
+.dash-line {
+    vertical-align: sub;
+    color: #A8A8A8;
+}
+
+.work-experiense {
+   padding-bottom: 20px;
+}
+
+.company, .institution {
+    color: #6096FF;
+}
+
+.about-me, .my-projects, .my-experiense {
+    margin-bottom: 40px;
+}
+
+.period-of-work, .period-of-study {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;    
+    margin-bottom: 8px;
+}
+
+.period-of-work {
+    margin-top: 12px;
+}
+
+.period-of-study, .speciality, .certificate {
+    margin-top: 8px;
+}
+
+.certificate {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.text-in-the-ul {
+    font-size: 14px;
+    vertical-align: bottom;
+}
+
+.sidebar-content {
+    padding: 40px 40px 40px 40px;
+}
+
+.sidebar_header {
+    color: #161D2A;
+}
+
+.my-photo {
+    width: 370px;
+}
+
+.my-contacts {
+    list-style: none;
+    font-size: 14px;
+}
+
+.contact-item {
+    font-weight: bold;
+    color: #161D2A;
+}
+
+.my-skills {
+    margin-top: 40px;
+}
+
+.skills-list {
+    color: #161D2A;
+    padding-left: 10px;
+}
+
+
